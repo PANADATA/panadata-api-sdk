@@ -7,5 +7,4 @@ setup(
   author='Gabriel Kardonski',
   author_email='gabriel@panadata.net',
   packages=['panadata-api-sdk'],  #same as name
-  install_requires=['boto3'], #external packages as dependencies
 )
